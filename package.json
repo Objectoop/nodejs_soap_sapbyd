@@ -1,0 +1,16 @@
+{
+  "name": "testsoap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Krit <kritwebmanager@gmail.com> (www.abc.com)",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.28.0"
+  }
+}
